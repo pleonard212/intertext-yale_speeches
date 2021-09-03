@@ -1,4 +1,549 @@
 {
+  "2021-08-26_salovey_on-the-planned-closing-of-yale-nus-college-in-2025.txt": {
+    "author": "Peter Salovey",
+    "title": "On the planned closing of Yale-NUS College in 2025",
+    "year": 2021
+  },
+  "2021-08-24_salovey_announcement-matthew-mendelsohn.txt": {
+    "author": "Peter Salovey",
+    "title": "Announcement – Matthew Mendelsohn",
+    "year": 2021
+  },
+  "2021-08-16_salovey_welcome-to-a-new-academic-year.txt": {
+    "author": "Peter Salovey",
+    "title": "Welcome to a new academic year",
+    "year": 2021
+  },
+  "2021-06-24_salovey_yales-new-commitments-to-mitigating-climate-change.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s new commitments to mitigating climate change",
+    "year": 2021
+  },
+  "2021-06-15_salovey_announcement-john-whelan-vice-president-for-human-resources.txt": {
+    "author": "Peter Salovey",
+    "title": "Announcement – John Whelan, Vice President for Human Resources",
+    "year": 2021
+  },
+  "2021-06-01_salovey_announcement-kymberly-pinder-dean-of-the-yale-school-of-art.txt": {
+    "author": "Peter Salovey",
+    "title": "Announcement – Kymberly Pinder, Dean of the Yale School of Art",
+    "year": 2021
+  },
+  "2021-05-14_salovey_requiring-faculty-staff-and-trainees-to-be-vaccinated-against-covid-19.txt": {
+    "author": "Peter Salovey",
+    "title": "Requiring faculty, staff, and trainees to be vaccinated against COVID-19",
+    "year": 2021
+  },
+  "2021-05-06_salovey_david-swensen.txt": {
+    "author": "Peter Salovey",
+    "title": "David Swensen",
+    "year": 2021
+  },
+  "2021-04-20_salovey_todays-verdict-on-the-murder-of-george-floyd.txt": {
+    "author": "Peter Salovey",
+    "title": "Today’s verdict on the murder of George Floyd",
+    "year": 2021
+  },
+  "2021-04-19_salovey_requiring-students-to-be-vaccinated-against-covid-19.txt": {
+    "author": "Peter Salovey",
+    "title": "Requiring students to be vaccinated against COVID-19",
+    "year": 2021
+  },
+  "2021-03-29_salovey_the-fall-2021-semester.txt": {
+    "author": "Peter Salovey",
+    "title": "The Fall 2021 Semester",
+    "year": 2021
+  },
+  "2021-03-18_salovey_standing-with-asian-and-asian-american-communities.txt": {
+    "author": "Peter Salovey",
+    "title": "Standing with Asian and Asian-American Communities",
+    "year": 2021
+  },
+  "2021-03-15_salovey_commencement-2021.txt": {
+    "author": "Peter Salovey",
+    "title": "Commencement 2021",
+    "year": 2021
+  },
+  "2021-03-11_salovey_marking-one-year-of-the-pandemic.txt": {
+    "author": "Peter Salovey",
+    "title": "Marking one year of the pandemic",
+    "year": 2021
+  },
+  "2021-02-07_salovey_mourning-the-death-of-kevin-jiang.txt": {
+    "author": "Peter Salovey",
+    "title": "Mourning the death of Kevin Jiang",
+    "year": 2021
+  },
+  "2021-02-03_salovey_doj-drops-lawsuit-challenging-yale-colleges-admissions-practices.txt": {
+    "author": "Peter Salovey",
+    "title": "DOJ drops lawsuit challenging Yale College’s admissions practices",
+    "year": 2021
+  },
+  "2021-01-06_salovey_thoughts-on-todays-events-in-washington-dc.txt": {
+    "author": "Peter Salovey",
+    "title": "Thoughts on today’s events in Washington, DC",
+    "year": 2021
+  },
+  "2020-11-04_salovey_a-message-about-the-us-presidential-election.txt": {
+    "author": "Peter Salovey",
+    "title": "A Message about the U.S. Presidential Election",
+    "year": 2020
+  },
+  "2020-10-14_salovey_building-a-stronger-and-more-inclusive-yale.txt": {
+    "author": "Peter Salovey",
+    "title": "Building a Stronger and More Inclusive Yale",
+    "year": 2020
+  },
+  "2020-10-13_salovey_a-shared-mission-fall-2020-academic-strategy-update.txt": {
+    "author": "Peter Salovey",
+    "title": "A Shared Mission: Fall 2020 Academic Strategy Update",
+    "year": 2020
+  },
+  "2020-10-08_salovey_yale-will-continue-to-foster-a-diverse-and-vibrant-educational-environment.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale Will Continue to Foster a Diverse and Vibrant Educational Environment",
+    "year": 2020
+  },
+  "2020-08-14_salovey_looking-forward-to-the-fall-semester.txt": {
+    "author": "Peter Salovey",
+    "title": "Looking Forward to the Fall Semester",
+    "year": 2020
+  },
+  "2020-08-13_salovey_yales-steadfast-commitment-to-diversity.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s Steadfast Commitment to Diversity",
+    "year": 2020
+  },
+  "2020-08-12_salovey_revised-yale-procedures-based-on-new-title-ix-regulations.txt": {
+    "author": "Peter Salovey",
+    "title": "Revised Yale Procedures Based on New Title IX Regulations",
+    "year": 2020
+  },
+  "2020-07-17_salovey_yales-ten-year-reaccreditation-results.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s Ten-Year Reaccreditation Results",
+    "year": 2020
+  },
+  "2020-07-14_salovey_announcement-marta-kuzma.txt": {
+    "author": "Peter Salovey",
+    "title": "Announcement – Marta Kuzma",
+    "year": 2020
+  },
+  "2020-07-14_salovey_update-dhs-policy-regarding-international-students-and-online-education.txt": {
+    "author": "Peter Salovey",
+    "title": "Update: DHS Policy Regarding International Students and Online Education",
+    "year": 2020
+  },
+  "2020-07-10_salovey_update-yales-actions-on-dhs-policy-regarding-international-students-and-online-education.txt": {
+    "author": "Peter Salovey",
+    "title": "Update: Yale's Actions on DHS Policy Regarding International Students and Online Education",
+    "year": 2020
+  },
+  "2020-07-07_salovey_dhs-policy-regarding-international-students-and-online-education.txt": {
+    "author": "Peter Salovey",
+    "title": "DHS Policy Regarding International Students and Online Education",
+    "year": 2020
+  },
+  "2020-06-22_salovey_the-yale-police-department-in-a-time-of-historic-change.txt": {
+    "author": "Peter Salovey",
+    "title": "The Yale Police Department in a Time of Historic Change",
+    "year": 2020
+  },
+  "2020-06-22_salovey_emails-from-equity-prime-mortgage.txt": {
+    "author": "Peter Salovey",
+    "title": "Emails from “Equity Prime Mortgage\"",
+    "year": 2020
+  },
+  "2020-06-18_salovey_us-supreme-court-ruling-regarding-the-deferred-action-for-childhood-arrivals-program.txt": {
+    "author": "Peter Salovey",
+    "title": "U.S. Supreme Court Ruling Regarding the Deferred Action for Childhood Arrivals program",
+    "year": 2020
+  },
+  "2020-05-31_salovey_in-memory-of-george-floyd.txt": {
+    "author": "Peter Salovey",
+    "title": "In memory of George Floyd",
+    "year": 2020
+  },
+  "2020-05-07_salovey_new-title-ix-regulations.txt": {
+    "author": "Peter Salovey",
+    "title": "New Title IX regulations",
+    "year": 2020
+  },
+  "2020-04-08_salovey_a-message-from-president-peter-salovey-on-this-weeks-holidays.txt": {
+    "author": "Peter Salovey",
+    "title": "A Message from President Peter Salovey on This Week's Holidays",
+    "year": 2020
+  },
+  "2019-12-12_salovey_budget-update-2019-20.txt": {
+    "author": "Peter Salovey",
+    "title": "Budget Update 2019-20",
+    "year": 2019
+  },
+  "2019-12-10_salovey_fall-2019-academic-priorities-update.txt": {
+    "author": "Peter Salovey",
+    "title": "Fall 2019 Academic Priorities Update",
+    "year": 2019
+  },
+  "2019-11-06_salovey_announcement-the-next-provost.txt": {
+    "author": "Peter Salovey",
+    "title": "Announcement – The Next Provost",
+    "year": 2019
+  },
+  "2019-11-04_salovey_yale-2019-university-wide-workplace-survey.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale 2019 University-wide Workplace Survey",
+    "year": 2019
+  },
+  "2019-10-15_salovey_results-of-2019-aau-campus-climate-survey-on-sexual-assault-and-misconduct.txt": {
+    "author": "Peter Salovey",
+    "title": "Results of 2019 AAU Campus Climate Survey on Sexual Assault and Misconduct",
+    "year": 2019
+  },
+  "2019-09-05_salovey_fundraising-update-a-year-of-extraordinary-generosity.txt": {
+    "author": "Peter Salovey",
+    "title": "Fundraising Update: A Year of Extraordinary Generosity",
+    "year": 2019
+  },
+  "2019-08-28_salovey_update-actions-to-strengthen-our-ability-to-detect-and-prevent-admissions-fraud.txt": {
+    "author": "Peter Salovey",
+    "title": "Update - Actions to strengthen our ability to detect and prevent admissions fraud",
+    "year": 2019
+  },
+  "2019-05-23_salovey_yales-steadfast-commitment-to-our-international-students-and-scholars.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s steadfast commitment to our international students and scholars",
+    "year": 2019
+  },
+  "2019-05-09_salovey_academic-priorities-update-educational-excellence.txt": {
+    "author": "Peter Salovey",
+    "title": "Academic Priorities Update – Educational Excellence",
+    "year": 2019
+  },
+  "2019-04-17_salovey_an-update-regarding-yesterdays-shooting-in-new-haven.txt": {
+    "author": "Peter Salovey",
+    "title": "An update regarding yesterday’s shooting in New Haven",
+    "year": 2019
+  },
+  "2019-04-09_salovey_actions-to-address-discrimination-and-harassment-and-create-a-more-inclusive-yale.txt": {
+    "author": "Peter Salovey",
+    "title": "Actions to address discrimination and harassment and create a more inclusive Yale",
+    "year": 2019
+  },
+  "2019-04-06_salovey_the-future-of-the-jackson-institute.txt": {
+    "author": "Peter Salovey",
+    "title": "The Future of the Jackson Institute",
+    "year": 2019
+  },
+  "2019-03-26_salovey_update-actions-to-detect-and-prevent-admissions-fraud.txt": {
+    "author": "Peter Salovey",
+    "title": "Update - Actions to detect and prevent admissions fraud",
+    "year": 2019
+  },
+  "2019-03-15_salovey_actions-regarding-admissions-fraud-scheme.txt": {
+    "author": "Peter Salovey",
+    "title": "Actions regarding admissions fraud scheme",
+    "year": 2019
+  },
+  "2019-03-12_salovey_federal-investigation-of-admissions-bribery-scheme.txt": {
+    "author": "Peter Salovey",
+    "title": "Federal Investigation of Admissions Bribery Scheme",
+    "year": 2019
+  },
+  "2019-01-03_salovey_budget-update-2018-19.txt": {
+    "author": "Peter Salovey",
+    "title": "Budget Update 2018-19",
+    "year": 2019
+  },
+  "2018-12-14_salovey_academic-priorities-update-faculty-excellence.txt": {
+    "author": "Peter Salovey",
+    "title": "Academic Priorities Update – Faculty Excellence",
+    "year": 2018
+  },
+  "2018-11-27_salovey_response-to-the-university-science-strategy-committees-report.txt": {
+    "author": "Peter Salovey",
+    "title": "Response to the University Science Strategy Committee’s Report",
+    "year": 2018
+  },
+  "2018-11-14_salovey_flyers-posted-on-campus-bulletin-boards.txt": {
+    "author": "Peter Salovey",
+    "title": "Flyers posted on campus bulletin boards",
+    "year": 2018
+  },
+  "2018-11-14_salovey_committee-report-on-the-future-of-the-jackson-institute.txt": {
+    "author": "Peter Salovey",
+    "title": "Committee report on the future of the Jackson Institute",
+    "year": 2018
+  },
+  "2018-10-09_salovey_update-on-strengthening-yales-community-of-learning.txt": {
+    "author": "Peter Salovey",
+    "title": "Update on strengthening Yale’s community of learning",
+    "year": 2018
+  },
+  "2018-09-26_salovey_yale-colleges-admissions-policies.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale College’s admissions policies",
+    "year": 2018
+  },
+  "2018-09-25_salovey_sexual-harassment-and-misconduct.txt": {
+    "author": "Peter Salovey",
+    "title": "Sexual Harassment and Misconduct",
+    "year": 2018
+  },
+  "2018-09-17_salovey_26-million-initiative-to-recruit-retain-preeminent-faculty.txt": {
+    "author": "Peter Salovey",
+    "title": "$26 million initiative to recruit, retain preeminent faculty",
+    "year": 2018
+  },
+  "2018-08-01_salovey_strengthening-yales-community-of-learning.txt": {
+    "author": "Peter Salovey",
+    "title": "Strengthening Yale’s community of learning",
+    "year": 2018
+  },
+  "2018-06-14_salovey_report-of-the-university-science-strategy-committee.txt": {
+    "author": "Peter Salovey",
+    "title": "Report of the University Science Strategy Committee",
+    "year": 2018
+  },
+  "2018-05-10_salovey_yales-commitment-to-equity-and-inclusion.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s commitment to equity and inclusion",
+    "year": 2018
+  },
+  "2018-03-01_salovey_spring-update-on-academic-strategy.txt": {
+    "author": "Peter Salovey",
+    "title": "Spring Update on Academic Strategy",
+    "year": 2018
+  },
+  "2018-02-27_salovey_universities-are-vital-for-bridging-the-science-gap-scientific-american.txt": {
+    "author": "Peter Salovey",
+    "title": "Universities Are Vital for Bridging the Science Gap (Scientific American)",
+    "year": 2018
+  },
+  "2017-12-05_salovey_budget-update-2017-18.txt": {
+    "author": "Peter Salovey",
+    "title": "Budget Update 2017-18",
+    "year": 2017
+  },
+  "2017-11-26_salovey_free-speech-personified-the-new-york-times.txt": {
+    "author": "Peter Salovey",
+    "title": "Free Speech, Personified (The New York Times)",
+    "year": 2017
+  },
+  "2017-09-15_salovey_fall-update-on-academic-strategy.txt": {
+    "author": "Peter Salovey",
+    "title": "Fall Update on Academic Strategy",
+    "year": 2017
+  },
+  "2017-09-05_salovey_yales-response-to-the-daca-announcement.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale’s Response to the DACA Announcement",
+    "year": 2017
+  },
+  "2017-08-30_salovey_letter-to-the-president-regarding-the-deferred-action-for-childhood-arrivals-program.txt": {
+    "author": "Peter Salovey",
+    "title": "Letter to the President Regarding the Deferred Action for Childhood Arrivals Program",
+    "year": 2017
+  },
+  "2017-06-05_salovey_presidents-statement-on-climate-change-initiatives.txt": {
+    "author": "Peter Salovey",
+    "title": "President’s Statement on Climate Change Initiatives",
+    "year": 2017
+  },
+  "2017-02-11_salovey_decision-on-the-name-of-calhoun-college.txt": {
+    "author": "Peter Salovey",
+    "title": "Decision on the Name of Calhoun College",
+    "year": 2017
+  },
+  "2017-01-29_salovey_update-yales-response-to-executive-order-on-immigration.txt": {
+    "author": "Peter Salovey",
+    "title": "Update: Yale’s Response to Executive Order on Immigration",
+    "year": 2017
+  },
+  "2017-01-28_salovey_message-regarding-international-students-and-scholars.txt": {
+    "author": "Peter Salovey",
+    "title": "Message regarding international students and scholars",
+    "year": 2017
+  },
+  "2017-01-25_salovey_academic-investments-the-sciences.txt": {
+    "author": "Peter Salovey",
+    "title": "Academic Investments: The Sciences",
+    "year": 2017
+  },
+  "2017-01-09_salovey_update-on-calhoun-advisory-process.txt": {
+    "author": "Peter Salovey",
+    "title": "Update on Calhoun Advisory Process",
+    "year": 2017
+  },
+  "2016-12-08_salovey_budget-update-2016-17.txt": {
+    "author": "Peter Salovey",
+    "title": "Budget Update 2016-17",
+    "year": 2016
+  },
+  "2016-12-02_salovey_report-of-the-committee-to-establish-principles-on-renaming.txt": {
+    "author": "Peter Salovey",
+    "title": "Report of the Committee to Establish Principles on Renaming",
+    "year": 2016
+  },
+  "2016-11-21_salovey_university-priorities-and-academic-investments.txt": {
+    "author": "Peter Salovey",
+    "title": "University Priorities and Academic Investments",
+    "year": 2016
+  },
+  "2016-11-18_salovey_our-commitment-to-international-students-and-scholars-yale-daily-news.txt": {
+    "author": "Peter Salovey",
+    "title": "Our Commitment to International Students and Scholars (Yale Daily News)",
+    "year": 2016
+  },
+  "2016-11-16_salovey_message-from-president-salovey-about-the-us-presidential-transition.txt": {
+    "author": "Peter Salovey",
+    "title": "Message from President Salovey about the U.S. Presidential Transition",
+    "year": 2016
+  },
+  "2016-11-10_salovey_working-toward-the-common-good.txt": {
+    "author": "Peter Salovey",
+    "title": "Working Toward the Common Good",
+    "year": 2016
+  },
+  "2016-11-01_salovey_fall-2016-letter-to-alumni.txt": {
+    "author": "Peter Salovey",
+    "title": "Fall 2016 Letter to Alumni",
+    "year": 2016
+  },
+  "2016-10-17_salovey_yale-believes-in-free-speech-and-so-do-i-wall-street-journal.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale Believes in Free Speech -- And So Do I (Wall Street Journal)",
+    "year": 2016
+  },
+  "2016-08-01_salovey_campus-update-committee-to-establish-principles-on-renaming.txt": {
+    "author": "Peter Salovey",
+    "title": "Campus Update: Committee to Establish Principles on Renaming",
+    "year": 2016
+  },
+  "2016-07-14_salovey_a-message-from-president-peter-salovey.txt": {
+    "author": "Peter Salovey",
+    "title": "A message from President Peter Salovey",
+    "year": 2016
+  },
+  "2016-07-05_salovey_reflections-on-2015-16.txt": {
+    "author": "Peter Salovey",
+    "title": "Reflections on 2015-16",
+    "year": 2016
+  },
+  "2016-06-14_salovey_support-in-the-wake-of-tragedy.txt": {
+    "author": "Peter Salovey",
+    "title": "Support in the Wake of Tragedy",
+    "year": 2016
+  },
+  "2016-04-27_salovey_decisions-on-residential-college-names-and-master-title.txt": {
+    "author": "Peter Salovey",
+    "title": "Decisions on Residential College Names and “Master” Title",
+    "year": 2016
+  },
+  "2016-04-22_salovey_earth-day-and-yales-sustainability-efforts.txt": {
+    "author": "Peter Salovey",
+    "title": "Earth Day - and Yale’s Sustainability Efforts",
+    "year": 2016
+  },
+  "2016-02-16_salovey_center-for-the-study-of-race-indigeneity-and-transnational-migration.txt": {
+    "author": "Peter Salovey",
+    "title": "Center for the Study of Race, Indigeneity, and Transnational Migration",
+    "year": 2016
+  },
+  "2016-02-03_salovey_presidential-task-force-on-diversity-and-inclusion.txt": {
+    "author": "Peter Salovey",
+    "title": "Presidential Task Force on Diversity and Inclusion",
+    "year": 2016
+  },
+  "2015-12-16_salovey_a-shared-and-ongoing-effort.txt": {
+    "author": "Peter Salovey",
+    "title": "A Shared and Ongoing Effort",
+    "year": 2015
+  },
+  "2015-12-14_salovey_budget-update-2015-16.txt": {
+    "author": "Peter Salovey",
+    "title": "Budget Update 2015-16",
+    "year": 2015
+  },
+  "2015-12-07_salovey_yales-role-in-climate-change-solutions.txt": {
+    "author": "Peter Salovey",
+    "title": "Yale's Role in Climate Change Solutions",
+    "year": 2015
+  },
+  "2015-11-17_salovey_toward-a-better-yale.txt": {
+    "author": "Peter Salovey",
+    "title": "Toward a Better Yale",
+    "year": 2015
+  },
+  "2015-11-17_salovey_moving-forward-together-a-message-to-the-silliman-college-community-about-nicholas-and-erika-christakis.txt": {
+    "author": "Peter Salovey",
+    "title": "Moving Forward Together: A Message to the Silliman College Community about Nicholas and Erika Christakis",
+    "year": 2015
+  },
+  "2015-11-11_salovey_an-update-from-campus.txt": {
+    "author": "Peter Salovey",
+    "title": "An Update from Campus",
+    "year": 2015
+  },
+  "2015-11-10_salovey_affirming-our-communitys-values.txt": {
+    "author": "Peter Salovey",
+    "title": "Affirming our Community's Values",
+    "year": 2015
+  },
+  "2015-11-06_salovey_a-better-university.txt": {
+    "author": "Peter Salovey",
+    "title": "A Better University",
+    "year": 2015
+  },
+  "2015-11-03_salovey_an-excellent-faculty-is-a-diverse-faculty.txt": {
+    "author": "Peter Salovey",
+    "title": "An Excellent Faculty is a Diverse Faculty",
+    "year": 2015
+  },
+  "2015-09-21_salovey_results-of-aau-survey-on-sexual-assault-and-misconduct.txt": {
+    "author": "Peter Salovey",
+    "title": "Results of AAU Survey on Sexual Assault and Misconduct",
+    "year": 2015
+  },
+  "2015-08-29_salovey_a-campus-wide-discussion-calhoun-college.txt": {
+    "author": "Peter Salovey",
+    "title": "A Campus-wide Discussion - Calhoun College",
+    "year": 2015
+  },
+  "2015-01-26_salovey_message-from-president-salovey-dean-holloway-and-chief-higgins.txt": {
+    "author": "Peter Salovey",
+    "title": "Message from President Salovey, Dean Holloway, and Chief Higgins",
+    "year": 2015
+  },
+  "2014-11-03_salovey_message-from-president-salovey-regarding-workplace-culture-and-climate.txt": {
+    "author": "Peter Salovey",
+    "title": "Message from President Salovey Regarding Workplace Culture and Climate",
+    "year": 2014
+  },
+  "2014-10-17_salovey_statement-from-yale-president-peter-salovey-with-update-regarding-the-ebola-virus.txt": {
+    "author": "Peter Salovey",
+    "title": "Statement from Yale President Peter Salovey with Update Regarding the Ebola Virus",
+    "year": 2014
+  },
+  "2014-10-16_salovey_statement-from-yale-president-peter-salovey-regarding-the-ebola-virus.txt": {
+    "author": "Peter Salovey",
+    "title": "Statement from Yale President Peter Salovey Regarding the Ebola Virus",
+    "year": 2014
+  },
+  "2014-10-16_salovey_statement-from-yale-president-peter-salovey-regarding-the-ebola-virus-ii.txt": {
+    "author": "Peter Salovey",
+    "title": "Statement from Yale President Peter Salovey Regarding the Ebola Virus II",
+    "year": 2014
+  },
+  "2013-08-06_salovey_statement-from-yale-president-peter-salovey-regarding-immigration-reform.txt": {
+    "author": "Peter Salovey",
+    "title": "Statement from Yale President Peter Salovey Regarding Immigration Reform",
+    "year": 2013
+  },
+  "2013-08-05_salovey_message-from-president-salovey-regarding-recent-sexual-misconduct-report.txt": {
+    "author": "Peter Salovey",
+    "title": "Message from President Salovey Regarding Recent Sexual Misconduct Report",
+    "year": 2013
+  },
   "2021-08-28_salovey_when-the-world-is-on-fire.txt": {
     "author": "Peter Salovey",
     "title": "When the World Is on Fire",
