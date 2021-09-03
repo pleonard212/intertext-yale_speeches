@@ -1,360 +1,532 @@
 {
-  "1993-10-01_RichardLevin.txt": {
+  "2013-05-05_levin_lately-it-occurs-to-me-baccalaureate-address.txt": {
     "author": "Richard Levin",
-    "title": "Beyond the Ivy Walls: Our University in the Wider World",
-    "year": 1993
+    "title": "Lately It Occurs to Me … : Baccalaureate Address",
+    "year": 2013
   },
-  
-    "1995-05-09_RichardLevin.txt": {
+  "2012-08-25_levin_undergraduate-education-and-the-research-university-by-president-richard-c-levin.txt": {
+    "author": "Richard Levin",
+    "title": "Undergraduate Education and the Research University by President Richard C. Levin",
+    "year": 2012
+  },
+  "2012-07-19_levin_statement-regarding-yale-nus-college.txt": {
+    "author": "Richard Levin",
+    "title": "Statement Regarding Yale-NUS College",
+    "year": 2012
+  },
+  "2012-05-20_levin_baccalaureate-address-taking-responsibility.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Taking Responsibility",
+    "year": 2012
+  },
+  "2011-09-11_levin_air-force-rotc-signing-ceremony.txt": {
+    "author": "Richard Levin",
+    "title": "Air Force ROTC Signing Ceremony",
+    "year": 2011
+  },
+  "2011-08-26_levin_freshman-address-seeing-the-big-picture.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Seeing the Big Picture",
+    "year": 2011
+  },
+  "2011-05-25_levin_yale-and-us-navy-rotc-signing.txt": {
+    "author": "Richard Levin",
+    "title": "Yale and U.S. Navy ROTC Signing",
+    "year": 2011
+  },
+  "2011-05-21_levin_baccalaureate-address-whats-next.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: What’s Next?",
+    "year": 2011
+  },
+  "2011-04-23_levin_greetings-on-the-occasion-of-the-tsinghua-university-centennial-celebration.txt": {
+    "author": "Richard Levin",
+    "title": "Greetings on the Occasion of the Tsinghua University Centennial Celebration",
+    "year": 2011
+  },
+  "2011-04-10_levin_yale-nus-college-launch.txt": {
+    "author": "Richard Levin",
+    "title": "Yale-NUS College Launch",
+    "year": 2011
+  },
+  "2011-03-05_levin_why-colleges-and-universities-matter.txt": {
+    "author": "Richard Levin",
+    "title": "Why Colleges and Universities Matter",
+    "year": 2011
+  },
+  "2010-09-23_levin_why-hopkins-has-survived-for-350-years.txt": {
+    "author": "Richard Levin",
+    "title": "Why Hopkins Has Survived for 350 Years",
+    "year": 2010
+  },
+  "2010-09-11_levin_prospectus-for-a-liberal-arts-college-in-singapore.txt": {
+    "author": "Richard Levin",
+    "title": "Prospectus for a Liberal Arts College in Singapore",
+    "year": 2010
+  },
+  "2010-08-27_levin_freshman-address-opportunity-and-responsibility.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Opportunity and Responsibility",
+    "year": 2010
+  },
+  "2010-05-22_levin_baccalaureate-address-reclaiming-politics.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Reclaiming Politics",
+    "year": 2010
+  },
+  "2010-02-17_levin_harnessing-the-wind.txt": {
+    "author": "Richard Levin",
+    "title": "Harnessing the Wind",
+    "year": 2010
+  },
+  "2010-02-02_levin_yale-2010-11-budget-update.txt": {
+    "author": "Richard Levin",
+    "title": "Yale 2010-11 Budget Update",
+    "year": 2010
+  },
+  "2010-01-31_levin_the-rise-of-asias-universities.txt": {
+    "author": "Richard Levin",
+    "title": "The Rise of Asia’s Universities",
+    "year": 2010
+  },
+  "2009-10-11_levin_annie-le-memorial-service.txt": {
+    "author": "Richard Levin",
+    "title": "Annie Le Memorial Service",
+    "year": 2009
+  },
+  "2009-09-09_levin_yale-2009-10-budget-update.txt": {
+    "author": "Richard Levin",
+    "title": "Yale 2009-10 Budget Update",
+    "year": 2009
+  },
+  "2009-08-28_levin_freshman-address.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address",
+    "year": 2009
+  },
+  "2009-05-23_levin_baccalaureate-address-the-economy-and-the-human-spirit.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: The Economy and the Human Spirit",
+    "year": 2009
+  },
+  "2009-02-23_levin_yale-budget-update.txt": {
+    "author": "Richard Levin",
+    "title": "Yale Budget Update",
+    "year": 2009
+  },
+  "2009-02-13_levin_vigil-for-annie-le.txt": {
+    "author": "Richard Levin",
+    "title": "Vigil for Annie Le",
+    "year": 2009
+  },
+  "2008-12-15_levin_budget-letter.txt": {
+    "author": "Richard Levin",
+    "title": "Budget Letter",
+    "year": 2008
+  },
+  "2008-11-16_levin_announcing-the-yale-india-initiative.txt": {
+    "author": "Richard Levin",
+    "title": "Announcing the Yale India Initiative",
+    "year": 2008
+  },
+  "2008-10-21_levin_president-richard-c-levin-statement-to-yale-community-on-the-financial-crisis.txt": {
+    "author": "Richard Levin",
+    "title": "President Richard C. Levin Statement to Yale Community on the Financial Crisis",
+    "year": 2008
+  },
+  "2008-10-16_levin_the-university-in-service-to-society.txt": {
+    "author": "Richard Levin",
+    "title": "The University in Service to Society",
+    "year": 2008
+  },
+  "2008-10-15_levin_leading-by-example-from-sustainable-campuses-to-a-sustainable-world.txt": {
+    "author": "Richard Levin",
+    "title": "Leading by Example: From Sustainable Campuses to a Sustainable World",
+    "year": 2008
+  },
+  "2008-10-14_levin_collaboration-in-the-shifting-knowledge-economy.txt": {
+    "author": "Richard Levin",
+    "title": "Collaboration in the Shifting Knowledge Economy",
+    "year": 2008
+  },
+  "2008-08-29_levin_freshman-address-your-time-of-opportunity.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Your Time of Opportunity",
+    "year": 2008
+  },
+  "2008-05-24_levin_baccalaureate-address-life-on-a-small-planet.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Life on a Small Planet",
+    "year": 2008
+  },
+  "2008-05-07_levin_the-role-of-not-for-profit-universities.txt": {
+    "author": "Richard Levin",
+    "title": "The Role of Not-for-Profit Universities",
+    "year": 2008
+  },
+  "2008-05-05_levin_the-university-in-service-to-society.txt": {
+    "author": "Richard Levin",
+    "title": "The University in Service to Society",
+    "year": 2008
+  },
+  "2008-05-05_levin_the-internationalization-of-the-university.txt": {
+    "author": "Richard Levin",
+    "title": "The Internationalization of the University",
+    "year": 2008
+  },
+  "2008-04-15_levin_the-american-research-university-and-the-global-agenda.txt": {
+    "author": "Richard Levin",
+    "title": "The American Research University and the Global Agenda",
+    "year": 2008
+  },
+  "2008-04-06_levin_statement-tibet.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Tibet",
+    "year": 2008
+  },
+  "2008-04-02_levin_committee-on-the-environment-and-public-works-testimony.txt": {
+    "author": "Richard Levin",
+    "title": "Committee on the Environment and Public Works: Testimony",
+    "year": 2008
+  },
+  "2008-02-17_levin_statement-the-report-of-the-study-group-to-consider-new-residential-colleges.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: The Report of the Study Group to Consider New Residential Colleges",
+    "year": 2008
+  },
+  "2008-01-20_levin_leading-by-example-from-sustainable-campuses-to-a-sustainable-world.txt": {
+    "author": "Richard Levin",
+    "title": "Leading by Example: From Sustainable Campuses to a Sustainable World",
+    "year": 2008
+  },
+  "2008-01-17_levin_statement-commemoration-of-martin-luther-king-jr.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Commemoration of Martin Luther King, Jr.",
+    "year": 2008
+  },
+  "2007-08-31_levin_freshman-address-the-questions-that-matter.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: The Questions that Matter",
+    "year": 2007
+  },
+  "2007-08-06_levin_statement-british-university-and-college-union-boycott.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: British University and College Union Boycott",
+    "year": 2007
+  },
+  "2007-05-26_levin_baccalaureate-address-journeys.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Journeys",
+    "year": 2007
+  },
+  "2007-05-22_levin_confronting-chinas-challenges.txt": {
+    "author": "Richard Levin",
+    "title": "Confronting China’s Challenges",
+    "year": 2007
+  },
+  "2007-03-08_levin_welcome-remarks-at-the-japan-and-the-world-domestic-politics-and-how-the-world-looks-to-japans-conference.txt": {
+    "author": "Richard Levin",
+    "title": "Welcome Remarks at the Japan and the World: Domestic Politics and How the World Looks to Japan’s Conference",
+    "year": 2007
+  },
+  "2006-12-13_levin_statement-hospital-election.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Hospital Election",
+    "year": 2006
+  },
+  "2006-11-07_levin_globalization-and-the-university.txt": {
+    "author": "Richard Levin",
+    "title": "Globalization and the University",
+    "year": 2006
+  },
+  "2006-10-16_levin_amendment-to-the-universitys-equal-opportunity-statement.txt": {
+    "author": "Richard Levin",
+    "title": "Amendment to the University's Equal Opportunity Statement",
+    "year": 2006
+  },
+  "2006-10-03_levin_remarks-delivered-at-the-thematic-debate-unesco-executive-board.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks delivered at the Thematic Debate: UNESCO Executive Board",
+    "year": 2006
+  },
+  "2006-09-29_levin_campaign-launch-yale-tomorrow.txt": {
+    "author": "Richard Levin",
+    "title": "Campaign Launch: Yale Tomorrow",
+    "year": 2006
+  },
+  "2006-09-11_levin_statement-early-admissions.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Early Admissions",
+    "year": 2006
+  },
+  "2006-09-01_levin_freshman-address-preparing-for-global-citizenship.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Preparing for Global Citizenship",
+    "year": 2006
+  },
+  "2006-07-17_levin_keynote-address-chinese-foreign-university-presidents-forum.txt": {
+    "author": "Richard Levin",
+    "title": "Keynote Address: Chinese-Foreign University Presidents’ Forum",
+    "year": 2006
+  },
+  "2006-05-19_levin_baccalaureate-address-curiosity-independence-and-public-service.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Curiosity, Independence, and Public Service",
+    "year": 2006
+  },
+  "2006-04-20_levin_introduction-of-president-hu-jintao.txt": {
+    "author": "Richard Levin",
+    "title": "Introduction of President Hu Jintao",
+    "year": 2006
+  },
+  "2006-04-16_levin_statement-yales-special-student-programs.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Yale's Special Student Programs",
+    "year": 2006
+  },
+  "2005-11-28_levin_reform-innovation-and-economic-growth.txt": {
+    "author": "Richard Levin",
+    "title": "Reform, Innovation, and Economic Growth",
+    "year": 2005
+  },
+  "2005-11-10_levin_veterans-day-celebration.txt": {
+    "author": "Richard Levin",
+    "title": "Veterans Day Celebration",
+    "year": 2005
+  },
+  "2005-10-10_levin_statement-greenhouse-gas-reduction-strategy.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: Greenhouse Gas Reduction Strategy",
+    "year": 2005
+  },
+  "2005-09-23_levin_greetings-on-the-occasion-of-the-centennial-celebration.txt": {
+    "author": "Richard Levin",
+    "title": "Greetings on the Occasion of the Centennial Celebration",
+    "year": 2005
+  },
+  "2005-09-22_levin_fudan-university-centennial-universities-economic-growth-and-regional-development.txt": {
+    "author": "Richard Levin",
+    "title": "Fudan University Centennial: Universities, Economic Growth, and Regional Development",
+    "year": 2005
+  },
+  "2005-08-26_levin_freshman-address-friendship-and-individuality.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Friendship and Individuality",
+    "year": 2005
+  },
+  "2005-05-20_levin_baccalaureate-address-reviving-public-discourse.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Reviving Public Discourse",
+    "year": 2005
+  },
+  "2005-02-13_levin_dedication-of-the-ziff-center.txt": {
+    "author": "Richard Levin",
+    "title": "Dedication of the Ziff Center",
+    "year": 2005
+  },
+  "2005-01-13_levin_to-do-justice-annual-martin-luther-king-jr-service.txt": {
+    "author": "Richard Levin",
+    "title": "To Do Justice: Annual Martin Luther King, Jr. Service",
+    "year": 2005
+  },
+  "2005-01-06_levin_patents-in-global-perspective-sir-purshotamdas-thakurdas-memorial-lecture.txt": {
+    "author": "Richard Levin",
+    "title": "Patents In Global Perspective: Sir Purshotamdas Thakurdas Memorial Lecture",
+    "year": 2005
+  },
+  "2005-01-02_levin_the-global-university-inauguration-of-the-fox-international-fellowships.txt": {
+    "author": "Richard Levin",
+    "title": "The Global University: Inauguration of the Fox International Fellowships",
+    "year": 2005
+  },
+  "2004-08-27_levin_freshman-address-back-to-school.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Back to School",
+    "year": 2004
+  },
+  "2004-08-03_levin_keynote-address-chinese-foreign-university-presidents-forum.txt": {
+    "author": "Richard Levin",
+    "title": "Keynote Address: Chinese-Foreign University Presidents’ Forum",
+    "year": 2004
+  },
+  "2004-08-02_levin_yung-wing-150th-anniversary.txt": {
+    "author": "Richard Levin",
+    "title": "Yung Wing 150th Anniversary",
+    "year": 2004
+  },
+  "2003-11-13_levin_remarks-at-peking-university.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks at Peking University",
+    "year": 2003
+  },
+  "2003-11-11_levin_creating-global-universities-from-student-exchanges-to-collaboration.txt": {
+    "author": "Richard Levin",
+    "title": "Creating Global Universities: From Student Exchanges to Collaboration",
+    "year": 2003
+  },
+  "2003-11-09_levin_conference-on-sino-us-educational-exchange.txt": {
+    "author": "Richard Levin",
+    "title": "Conference on Sino-U.S. Educational Exchange",
+    "year": 2003
+  },
+  "2003-10-10_levin_freshmen-address-encountering-new-perspectives.txt": {
+    "author": "Richard Levin",
+    "title": "Freshmen Address: Encountering New Perspectives",
+    "year": 2003
+  },
+  "2003-05-23_levin_baccalaureate-address-confronting-uncertainty.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Confronting Uncertainty",
+    "year": 2003
+  },
+  "2003-05-14_levin_the-global-university.txt": {
+    "author": "Richard Levin",
+    "title": "The Global University",
+    "year": 2003
+  },
+  "2003-03-21_levin_statement-the-nation-at-war.txt": {
+    "author": "Richard Levin",
+    "title": "Statement: The Nation at War",
+    "year": 2003
+  },
+  "2003-02-25_levin_rethinking-college-admissions-nais-annual-meeting.txt": {
+    "author": "Richard Levin",
+    "title": "Rethinking College Admissions: NAIS Annual Meeting",
+    "year": 2003
+  },
+  "2003-01-29_levin_universities-and-cities-the-view-from-new-haven.txt": {
+    "author": "Richard Levin",
+    "title": "Universities and Cities: The View from New Haven",
+    "year": 2003
+  },
+  "2003-01-21_levin_the-global-university.txt": {
+    "author": "Richard Levin",
+    "title": "The Global University",
+    "year": 2003
+  },
+  "2002-09-10_levin_remarks-at-the-ceremony-of-remembrance-and-reflection.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks at the Ceremony of Remembrance and Reflection",
+    "year": 2002
+  },
+  "2002-08-30_levin_freshman-address-welcome-to-yale.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Welcome to Yale",
+    "year": 2002
+  },
+  "2002-05-25_levin_baccalaureate-address-thinking-about-september-11.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Thinking about September 11",
+    "year": 2002
+  },
+  "2002-01-21_levin_remarks-on-martin-luther-king-day.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks on Martin Luther King Day",
+    "year": 2002
+  },
+  "2001-10-11_levin_inauguration-of-lawrence-summers.txt": {
+    "author": "Richard Levin",
+    "title": "Inauguration of Lawrence Summers",
+    "year": 2001
+  },
+  "2001-10-04_levin_tercentennial-convocation-address.txt": {
+    "author": "Richard Levin",
+    "title": "Tercentennial Convocation Address",
+    "year": 2001
+  },
+  "2001-09-27_levin_inauguration-of-shirley-tilghman.txt": {
+    "author": "Richard Levin",
+    "title": "Inauguration of Shirley Tilghman",
+    "year": 2001
+  },
+  "2001-09-10_levin_remarks-at-the-university-vigil.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks at the University Vigil",
+    "year": 2001
+  },
+  "2001-08-31_levin_freshman-address-beginnings.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Beginnings",
+    "year": 2001
+  },
+  "2001-05-19_levin_baccalaureate-address-china-on-my-mind.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: China on My Mind",
+    "year": 2001
+  },
+  "2001-05-06_levin_the-global-university.txt": {
+    "author": "Richard Levin",
+    "title": "The Global University",
+    "year": 2001
+  },
+  "2001-05-05_levin_the-university-as-an-engine-of-economic-growth.txt": {
+    "author": "Richard Levin",
+    "title": "The University As an Engine of Economic Growth",
+    "year": 2001
+  },
+  "2000-09-01_levin_freshman-address-yale-time.txt": {
+    "author": "Richard Levin",
+    "title": "Freshman Address: Yale Time",
+    "year": 2000
+  },
+  "2000-05-05_levin_baccalaureate-address-reflection-on-revolution.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Reflection on Revolution",
+    "year": 2000
+  },
+  "1999-11-02_levin_remarks-at-the-chamber-of-commerce-award-breakfast.txt": {
+    "author": "Richard Levin",
+    "title": "Remarks at the Chamber of Commerce Award Breakfast",
+    "year": 1999
+  },
+  "1999-05-22_levin_baccalaureate-address-beyond-community-service-the-nation-and-the-wider-world.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Beyond Community Service – The Nation and the Wider World",
+    "year": 1999
+  },
+  "1998-05-23_levin_baccalaureate-address-the-task-of-citizenship.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: The Task of Citizenship",
+    "year": 1998
+  },
+  "1998-04-22_levin_days-of-remembrance-keynote-address-blessed-is-the-match.txt": {
+    "author": "Richard Levin",
+    "title": "Days of Remembrance: Keynote Address “Blessed is the Match...”",
+    "year": 1998
+  },
+  "1997-10-14_levin_the-university-as-urban-citizen.txt": {
+    "author": "Richard Levin",
+    "title": "The University as Urban Citizen",
+    "year": 1997
+  },
+  "1997-05-24_levin_baccalaureate-address-taking-the-next-step.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: Taking the Next Step",
+    "year": 1997
+  },
+  "1996-11-03_levin_preparing-for-yales-fourth-century.txt": {
+    "author": "Richard Levin",
+    "title": "Preparing for Yale's Fourth Century",
+    "year": 1996
+  },
+  "1996-05-11_levin_dalton-lecture-the-future-of-the-american-university.txt": {
+    "author": "Richard Levin",
+    "title": "Dalton Lecture: The Future of the American University",
+    "year": 1996
+  },
+  "1996-05-05_levin_baccalaureate-address-on-controversy.txt": {
+    "author": "Richard Levin",
+    "title": "Baccalaureate Address: On Controversy",
+    "year": 1996
+  },
+  "1995-05-09_levin_our-universities-and-our-common-wealth.txt": {
     "author": "Richard Levin",
     "title": "Our Universities and Our Common Wealth",
     "year": 1995
   },
-  
-    "1996-05-05_RichardLevin.txt": {
+  "1993-10-01_levin_inaugural-address-beyond-the-ivy-walls-our-university-in-the-wider-world.txt": {
     "author": "Richard Levin",
-    "title": "On Controversy",
-    "year": 1996
-  },
-  
-    "1996-05-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Future of the American University",
-    "year": 1996
-  },
-  
-    "1996-05-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Future of the American University",
-    "year": 1996
-  },
-  
-    "1996-11-03_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Preparing for Yale's Fourth Century",
-    "year": 1996
-  }, 
-  
-    "1997-05-24_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Taking the Next Step",
-    "year": 1997
-  }, 
-  
-    "1997-10-14_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The University as Urban Citizen",
-    "year": 1997
-  }, 
-  
-    "1998-04-22_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Blessed is the Match...",
-    "year": 1998
-  }, 
-  
-    "1998-05-23_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Task of Citizenship",
-    "year": 1998
-  }, 
-  
-    "1999-05-22_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Beyond Community Service – The Nation and the Wider World",
-    "year": 1999
-  }, 
-    "1999-11-02_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Remarks at the Chamber of Commerce Award Breakfast",
-    "year": 1999
-  }, 
-    "2000-05-05_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Reflection on Revolution",
-    "year": 2000
-  }, 
-    "2000-09-01_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Yale Time",
-    "year": 2000
-  }, 
-    "2001-05-05_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The University As an Engine of Economic Growth",
-    "year": 2001
-  }, 
-    "2001-05-06_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Global University (China)",
-    "year": 2001
-  }, 
-    "2001-05-19_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "China on My Mind",
-    "year": 2001
-  }, 
-    "2001-08-31_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Beginnings",
-    "year": 2001
-  }, 
-    "2001-09-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Remarks at the University Vigil",
-    "year": 2001
-  }, 
-    "2001-09-27_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Inauguration of Shirley Tilghman",
-    "year": 2001
-  }, 
-    "2001-10-04_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Tercentennial Convocation Address",
-    "year": 2001
-  }, 
-    "2001-10-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Inauguration of Lawrence Summers",
-    "year": 2001
-  }, 
-    "2002-01-21_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Remarks on Martin Luther King Day",
-    "year": 2002
-  }, 
-    "2002-05-21_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Thinking about September 11",
-    "year": 2002
-  }, 
-    "2002-08-30_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Welcome to Yale",
-    "year": 2002
-  }, 
-    "2002-09-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Remarks at the Ceremony of Remembrance and Reflection",
-    "year": 2002
-  }, 
-    "2003-01-21_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Global University (France)",
-    "year": 2003
-  }, 
-    "2003-01-29_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Universities and Cities: The View from New Haven",
-    "year": 2003
-  }, 
-    "2003-02-25_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Rethinking College Admissions",
-    "year": 2003
-  }, 
-    "2003-03-21_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Nation at War",
-    "year": 2003
-  }, 
-    "2003-05-14_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Global University (Korea)",
-    "year": 2003
-  }, 
-    "2003-05-23_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Confronting Uncertainty",
-    "year": 2003
-  }, 
-    "2003-10-10_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Encountering New Perspectives",
-    "year": 2003
-  }, 
-    "2003-11-09_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Conference on Sino-U.S. Educational Exchange",
-    "year": 2003
-  }, 
-    "2003-11-11_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Creating Global Universities: From Student Exchanges to Collaboration",
-    "year": 2003
-  }, 
-    "2003-11-13_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Remarks at Peking University",
-    "year": 2003
-  }, 
-    "2004-08-04_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Yung Wing 150th Anniversary",
-    "year": 2004
-  }, 
-    "2004-08-03_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Chinese-Foreign University Presidents’ Forum",
-    "year": 2004
-  }, 
-    "2004-08-27_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Back to School",
-    "year": 2004
-  }, 
-    "2005-01-02_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Global University (India)",
-    "year": 2005
-  }, 
-    "2005-01-06_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Patents In Global Perspective",
-    "year": 2005
-  }, 
-    "2005-01-13_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "To Do Justice",
-    "year": 2005
-  }, 
-    "2005-02-13_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Dedication of the Ziff Center",
-    "year": 2005
-  }, 
-    "2005-05-20_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Reviving Public Discourse",
-    "year": 2005
-  }, 
-    "2005-08-26_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Friendship and Individuality",
-    "year": 2005
-  }, 
-    "2005-09-22_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Universities, Economic Growth, and Regional Development",
-    "year": 2005
-  }, 
-    "2005-09-23_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Greetings on the Occasion of the Centennial Celebration",
-    "year": 2005
-  }, 
-    "2005-10-10_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Greenhouse Gas Reduction Strategy",
-    "year": 2005
-  }, 
-    "2005-11-10_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Veterans Day Celebration",
-    "year": 2005
-  }, 
-    "2005-11-28_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Reform, Innovation, and Economic Growth",
-    "year": 2005
-  }, 
-    "2006-04-20_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Introduction of President Hu Jintao",
-    "year": 2006
-  }, 
-    "2006-05-19_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Curiosity, Independence, and Public Service",
-    "year": 2006
-  }, 
-    "2006-07-17_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Chinese-Foreign University Presidents' Forum",
-    "year": 2006
-  }, 
-    "2006-09-01_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Preparaing for Global Citizenship",
-    "year": 2006
-  }, 
-    "2006-09-29_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Yale Tomorrow",
-    "year": 2006
-  }, 
-    "2006-10-03_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "International Cooperation in Higher Education and the Role of UNESCO",
-    "year": 2006
-  }, 
-    "2006-10-16_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Amendment to the University's Equal Opportunity Statement",
-    "year": 2006
-  }, 
-    "2006-11-07_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Globalization and the University",
-    "year": 2006
-  }, 
-    "2007-03-09_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Welcome Remarks (Japan and the World conference)",
-    "year": 2007
-  }, 
-    "2007-05-22_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Confronting China's Challenges",
-    "year": 2007
-  }, 
-    "2007-05-26_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Journeys",
-    "year": 2007
-  }, 
-    "2007-08-31_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Questions that Matter",
-    "year": 2007
-  }, 
-    "2008-01-17_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Commemoration of Martin Luther King, J.",
-    "year": 2008
-  }, 
-    "2008-01-20_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Leading by Example: From Sustainable Campuses to a Sustainable World",
-    "year": 2008
-  }, 
-    "2008-02-17_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Report of the Study Group to Consider New Residential Colleges",
-    "year": 2008
-  }, 
-    "2008-04-02_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Testimony to the Committee on the Environment and Public Works",
-    "year": 2008
-  }, 
-    "2008-04-06_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "Statement: Tibet",
-    "year": 2008
-  }, 
-    "2008-04-15_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The American Research University and the Global Agenda",
-    "year": 2008
-  }, 
-    "2008-05-05_RichardLevin.txt": {
-    "author": "Richard Levin",
-    "title": "The Internationalization of the University",
-    "year": 2008
+    "title": "Inaugural Address: Beyond the Ivy Walls: Our University in the Wider World",
+    "year": 1993
   }
-  
-  
-  
 }
